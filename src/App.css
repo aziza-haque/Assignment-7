@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.banner{
+    background-image: url('https://i.postimg.cc/bwXb99cG/banner.jpg');
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Classic Leica M3 35mm film camera highly sought after by collectors.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 12,
+    "image": "https://i.postimg.cc/mk6mZXrn/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Vintage 1965 Gibson SG guitar, known for its iconic sound and design.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 8,
+    "image": "https://i.postimg.cc/hv324yjt/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The first Macintosh computer released by Apple in 1984.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 15,
+    "image": "https://i.postimg.cc/2yX0jc6j/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Iconic Rolex Submariner diver’s watch, stainless steel model 16610.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 22,
+    "image": "https://i.postimg.cc/GtSX372h/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first edition copy of the American classic novel The Great Gatsby.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 5,
+    "image": "https://i.postimg.cc/pr1sVGTr/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Authentic mid-century modern Eames lounge chair and ottoman.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 18,
+    "image": "https://i.postimg.cc/ryhn9m9G/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "An authentic screen print artwork attributed to Banksy.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days left",
+    "bidsCount": 27,
+    "image": "https://i.postimg.cc/Pf63MxMz/Bid7-min.png"
+  }
+]
